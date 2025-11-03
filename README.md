@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Grishank Dubey  
+<img width="1919" height="1027" alt="image" src="https://github.com/user-attachments/assets/2a4480b1-0ee5-42aa-b6ff-87800c463565" /><img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/bc969fc3-0463-4b37-9cfe-5f764fbc5743" /># 👋 Hey, I'm Grishank Dubey  
 
 🚀 **Java Backend Developer Trainee | Exploring Cybersecurity & System Security Concepts**  
 💡 Documenting my learning journey through **TryHackMe**, **Java**, and **projects**.  
@@ -39,7 +39,7 @@
 
 ## 🌎 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grishank-dubey-03541222a/)  
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/Grishank)  
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/grishdubey01)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Grishank)  
 
 ---
