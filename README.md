@@ -1,4 +1,4 @@
-<img width="1919" height="1027" alt="image" src="https://github.com/user-attachments/assets/2a4480b1-0ee5-42aa-b6ff-87800c463565" /><img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/bc969fc3-0463-4b37-9cfe-5f764fbc5743" /># 👋 Hey, I'm Grishank Dubey  
+👋 Hey, I'm Grishank Dubey  
 
 🚀 **Java Backend Developer Trainee | Exploring Cybersecurity & System Security Concepts**  
 💡 Documenting my learning journey through **TryHackMe**, **Java**, and **projects**.  
