@@ -1,105 +1,150 @@
-# 👋 Hey, I'm Grishank Dubey  
+# 👋 Hey, I'm Grishank Dubey
 
-🚀 **Aspiring SOC Analyst | Cybersecurity Learner | Blue Team & Defensive Security** 
-🔐 Building practical skills through TryHackMe, SOC investigations, log analysis, and cyber labs.
+🚀 **SOC Analyst (Level 1) Aspirant | ISC2 Certified in Cybersecurity (CC) | Blue Team | AI Security Learner**
 
----
-
-## 🧭 About Me  
-- 🛡️ Learning **Cybersecurity & SOC Fundamentals** (TryHackMe)  
-- 📊 Practicing **Log Analysis, Event IDs, Detection & Investigation**  
-- 🐧 Experienced with **Linux**, **Windows**, and OS-level security basics  
-- 🧠 Building my **SOC-AI Journey** (AI-assisted SOC analysis every day)  
-- 🎯 Goal: Build practical SOC Analyst skills through hands-on labs, investigations, and blue team exercises 
-- 💻 Secondary Skillset: **Java Backend (Spring Boot, MySQL, REST API basics)**  
+🔐 Passionate about Blue Team operations, SOC investigations, AI Security, and documenting hands-on cybersecurity learning through practical labs and real-world scenarios.
 
 ---
 
-## 🔥 Active Cybersecurity Projects
+# 🧭 About Me
 
-### 🛡️ 1. SOC Level 1 — TryHackMe Journey
+- 🛡️ Building practical **SOC Analyst (Level 1)** skills through TryHackMe
+- 📊 Hands-on experience with **SIEM, Log Analysis, Threat Detection & Incident Investigation**
+- 🤖 Exploring **AI Security**, LLM security, and emerging AI threats
+- 🐧 Comfortable working with **Linux**, **Windows**, and networking fundamentals
+- 📝 Creating detailed technical documentation and room write-ups on GitHub
+- 🎯 Goal: Become a SOC Analyst and continuously grow in Blue Team, Threat Hunting, and Detection Engineering
+
+---
+
+# 🔥 Featured Cybersecurity Projects
+
+## 🛡️ SOC Level 1 Journey
 📁 https://github.com/Grishank/SOC-Level-1-Journey
 
-Documenting my SOC Level 1 learning journey through hands-on blue team labs, threat investigations, defensive security concepts, and SOC-focused exercises.
+A complete documentation of my TryHackMe SOC Level 1 Learning Path, covering 56+ hands-on rooms focused on:
 
-Covers:
-- Blue Team Fundamentals
-- SOC Team Operations
-- Core SOC Solutions
-- Threat Detection & Investigation
-- SIEM Concepts
-- Defensive Security Notes
+- Blue Team Operations
+- SIEM Investigations
+- Threat Detection
+- Incident Response
+- Malware Analysis
+- Threat Intelligence
+- Windows & Linux Security Monitoring
+
+🏅 Completed
 
 ---
 
-### 🎓 2. Cyber Security 101 Learning Path
+## 🤖 AI Security Journey
+📁 https://github.com/Grishank/AI-Security-Journey
+
+Documenting my journey through the TryHackMe AI Security Learning Path with room write-ups, practical notes, and hands-on labs covering:
+
+- Artificial Intelligence Fundamentals
+- Large Language Models (LLMs)
+- Prompt Engineering
+- AI Threats
+- Prompt Injection
+- AI Security
+
+🚧 In Progress
+
+---
+
+## 🎓 Cyber Security 101 Journey
 📁 https://github.com/Grishank/cybersecurity-roadmap-tryhackme
 
-Documentation, notes, room write-ups, screenshots, and certificates from the TryHackMe Cyber Security 101 Learning Path.
-
-Covers:
-- Networking Fundamentals
-- Linux Fundamentals
-- Windows Fundamentals
-- Web Security Basics
-- Security Concepts
-- Hands-on Labs
-
-🏅 Completed Successfully
-
----
-
-### 🎄 3. Advent of Cyber 2025
-📁 https://github.com/Grishank/Advent-of-Cyber-2025
-
-Complete write-ups, notes, and solutions from TryHackMe's Advent of Cyber 2025 event.
+Comprehensive notes, room write-ups, certificates, and practical learning from the TryHackMe Cyber Security 101 Learning Path.
 
 Topics include:
-- SOC Investigations
-- OSINT
-- Forensics
-- Threat Analysis
+
+- Networking
+- Linux
+- Windows
 - Web Security
-- Red Team & Blue Team Exercises
+- Cryptography
+- Defensive Security
+- Security Tools
 
-🏅 Advent of Cyber 2025 Completed
-
----
-
-## 🛠️ Skills I'm Building  
-### 🛡️ **Cybersecurity / SOC**
-- Log Analysis (Linux + Windows)  
-- Event ID Investigation  
-- Basic SIEM concepts  
-- Recon & Enumeration (Nmap)  
-- MITRE ATT&CK  
-- OSINT & Web Security basics  
-- Incident Documentation  
-
-### ⚙️ **Tools**
-- Linux, Windows  
-- Nmap, Wireshark  
-- Event Viewer  
-- TryHackMe Labs  
-- (Soon) KQL, ELK, Azure Sentinel  
-
-### 💻 **Programming (Secondary)**
-- Java Basics → OOP → DSA  
-- Spring Boot fundamentals  
-- MySQL + REST APIs  
+🏅 Completed
 
 ---
 
-## 📈 What I'm Currently Working On  
-- Completing **Cybersecurity 101 Path**  
-- Daily SOC AI-assisted log analysis  
-- Advent of Cyber 2025 solutions  
-- Nmap scanning & enumeration  
-- Increasing GitHub activity + technical writing  
+## 🎄 Advent of Cyber 2025
+📁 https://github.com/Grishank/Advent-of-Cyber-2025
+
+Hands-on write-ups and solutions from TryHackMe's Advent of Cyber 2025 event.
+
+Topics include:
+
+- SOC Investigations
+- Threat Hunting
+- Digital Forensics
+- Web Security
+- Red Team & Blue Team Challenges
+
+🏅 Completed
 
 ---
 
-## 🌐 Connect with Me  
+# 🛠️ Technical Skills
+
+## 🛡️ Cybersecurity
+
+- Security Operations Center (SOC)
+- Threat Detection & Investigation
+- Incident Response
+- SIEM Fundamentals
+- Threat Intelligence
+- Malware Analysis
+- Windows & Linux Security Monitoring
+- MITRE ATT&CK
+- Network Traffic Analysis
+
+## ⚙️ Tools
+
+- Splunk
+- Elastic Stack
+- Wireshark
+- Snort
+- NetworkMiner
+- Linux
+- Windows
+- Nmap
+- Event Viewer
+- TryHackMe
+
+## 🤖 AI & Security
+
+- Artificial Intelligence Fundamentals
+- Large Language Models (LLMs)
+- Prompt Engineering
+- AI Security
+- AI-assisted Security Analysis
+
+## 💻 Programming
+
+- Java
+- Spring Boot
+- MySQL
+- REST APIs
+- Python (Learning for Security Automation)
+
+---
+
+# 📈 Currently Learning
+
+- AI Security (TryHackMe)
+- Detection Engineering
+- Threat Hunting
+- Security Automation with Python
+- Cloud Security
+- DFIR
+
+---
+
+# 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grishank-dubey-03541222a/)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/grishdubey01)
@@ -107,4 +152,4 @@ Topics include:
 
 ---
 
-⭐ *“Cybersecurity is not just knowledge — it’s investigation, consistency, and curiosity.”*  
+⭐ *"Cybersecurity is a journey of continuous learning, investigation, and solving real-world security challenges."*
